@@ -1,4 +1,5 @@
 # vue-todo
+![](docs/screenshot.png)
 
 ## Project setup
 ```
